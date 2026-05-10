@@ -21,7 +21,7 @@ Weekly trigger (every Monday 9am)
 
 ## Features
 
-- **AI-personalized greetings** — ChatGPT detects gender from first name and generates the appropriate salutation (e.g. "Estimada Dra. García," or "Estimado Juan Pérez,")
+- **AI-personalized greetings** — ChatGPT detects gender from first name and generates the appropriate salutation (e.g. "Dear Dra. García," or "Dear Juan Pérez,")
 - **Segmentation-aware** — adapts tone and content based on contact type (doctor, client, distributor, event attendee)
 - **Duplicate prevention** — tracks sent status in Google Sheets; contacts are never emailed twice
 - **Rate limiting** — capped at 1,000 emails per run to stay within free tier limits
